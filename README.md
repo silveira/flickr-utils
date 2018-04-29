@@ -1,2 +1,3 @@
 # flickr-utils
-some flickrapi scripts I use my manage my photos
+
+Replace api_key, api_secret, user for yours key, secret and user id.
